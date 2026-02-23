@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import TodoItem from '../Components/TodoItem';
 
 const HomePage = () => {
