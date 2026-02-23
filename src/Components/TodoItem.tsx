@@ -1,5 +1,3 @@
-import React from 'react';
-
 const TodoItem = ({ todo, toggleComplete, deleteTodo }: any) => {
   return (
     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '12px', backgroundColor: '#fff', borderRadius: '8px', border: '1px solid #eee', marginBottom: '10px' }}>
